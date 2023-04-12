@@ -18,7 +18,7 @@ const CountriesTable = () => {
   }
   const column = [
     {
-      name: "Country Name",
+      name: "Country Names",
       selector: (row)=> row.name,
       sortable: true,
     },
